@@ -1,0 +1,12 @@
+{
+  "name": "simple-http2-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP2 server with express and SPDY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository":"https://github.com/dinesh876/http2-express-node.git",
+  "author": "Dinesh",
+  "license": "ISC"
+}
